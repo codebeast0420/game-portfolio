@@ -37,7 +37,8 @@ import {
   st1,
   atlas1,
   gd3,
-  c1
+  c1,
+  unrealEngine
 } from "../assets";
 
 export const navLinks = [
@@ -59,6 +60,10 @@ const services = [
   {
     title: "Unity Developer",
     icon: unity,
+  },
+  {
+    title: "Unreal Engine Developer",
+    icon: unrealEngine,
   },
   {
     title: "Web Game",

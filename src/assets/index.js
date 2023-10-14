@@ -45,6 +45,7 @@ import c1 from './c1.jpg';
 import atlas1 from './atlas1.jpg';
 import gd3 from './gd3.png';
 import st1 from './st1.jpg';
+import unrealEngine from './unreal-engine.png';
 
 export {
   c1,
@@ -90,5 +91,6 @@ export {
   scribble,
   zepbo,
   wlop,
-  eyal
+  eyal,
+  unrealEngine
 };
