@@ -72,9 +72,9 @@ const Hero = () => {
         </div>
       </div>
 
-      <TCanvas />
+      {/* <TCanvas /> */}
 
-      {/* <ComputersCanvas /> */}
+      <ComputersCanvas />
 
       <div className="absolute xs:bottom-[-8.5rem] bottom-32 w-full flex justify-center items-center">
         <a href="#about">
