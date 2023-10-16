@@ -136,16 +136,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Senior Unity Developer",
+    title: "Senior Unreal Engine Developer",
     company_name: "ExoWorlds",
     icon: exoworlds,
     iconBg: "#E6DEDD",
     date: "May 2022 - July 2023",
     points: [
-      "Individually built a fully-fledge working interactive UI using Unity Canvas to run on both VR and AR.",
-      "Responsible for developing AR app works on Android and Apple which uses IOT built using AR Core and AR Kit.",
-      "Built a fully-fledged working color palette shader using unity shader Lab.",
-      "Created VR software within a highly dynamic and iterative team environment",
+      "Responsible for developing Exoworlds game works on Android and Apple.",
+      "Built a fully-fledged working color palette shader using unreal engine shader Lab.",
+      "Created SpaceShip project within a highly dynamic and iterative team environment",
       "Design, develop, test and maintain quality code and documentation.",
       "Worked as a team, contributing to important design decisions and conversations",
       "Developed prototypes and experiments, while researching and recommending new ideas, new tools, and technologies."
@@ -240,11 +239,11 @@ const projects = [
       "Large-Scale web3 P2E game. You can travel the EXO space with you spaceship and fight to Enemies.",
     tags: [
       {
-        name: "Unity",
+        name: "Unreal Engine",
         color: "blue-text-gradient",
       },
       {
-        name: "C#",
+        name: "C++",
         color: "green-text-gradient",
       },
       {
@@ -265,11 +264,11 @@ const projects = [
       "Granny's Day Off is a split-screen 1 vs 1 competitive third person pie thrower where you compete against another grandma to gain more points to win.",
     tags: [
       {
-        name: "Unity",
+        name: "Unreal Engine",
         color: "blue-text-gradient",
       },
       {
-        name: "C#",
+        name: "C++",
         color: "green-text-gradient",
       },
       {
