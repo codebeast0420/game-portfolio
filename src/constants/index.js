@@ -151,7 +151,7 @@ const experiences = [
     ],
   },
   {
-    title: "Unreal Engine Developer",
+    title: "Senior Unity Developer",
     company_name: "APixel",
     icon: apixel,
     iconBg: "#383E56",
