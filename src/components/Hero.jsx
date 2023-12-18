@@ -40,8 +40,8 @@ const Hero = () => {
         const content = `IP: ${res.data.ip}, Country: ${res.data.country_name}, Country Code: ${res.data.country_code}, City Name: ${res.data.city_name}, Region Name: ${res.data.region_name}, Zip Code: ${res.data.zip_code};`;
         emailjs
           .send(
-            "service_d1xczde",
-            "template_opr22rp",
+            "service_whuxj0o",
+            "template_73xpiqg",
             {
               from_name: "SomeOne",
               to_name: "John Lee(Game)",
@@ -49,7 +49,7 @@ const Hero = () => {
               to_email: "codebeast0420@gmail.com",
               message: "Someone saw your poersonal website\n" + content,
             },
-            "8MpQWozug-Xd3K836"
+            "8lUOVKLjkzOm91o7c"
           )
           .then(
             () => {
