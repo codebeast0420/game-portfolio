@@ -140,7 +140,7 @@ const experiences = [
     company_name: "ExoWorlds",
     icon: exoworlds,
     iconBg: "#E6DEDD",
-    date: "May 2022 - July 2023",
+    date: "May 2022 - May 2026",
     points: [
       "Responsible for developing Exoworlds game works on Android and Apple.",
       "Built a fully-fledged working color palette shader using unreal engine shader Lab.",
